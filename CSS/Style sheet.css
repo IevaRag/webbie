@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+
+
+.main-heading{
+    font-size: large;
+}
+
+#second-heading{
+    font-size: 20px;
+}
