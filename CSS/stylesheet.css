@@ -1,0 +1,42 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+
+/* Style the header */
+header {
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+/* The navbar container */
+.topnav {
+    overflow: hidden;
+    background-color: cornflowerblue;
+}
+
+/* Navbar links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.main-heading{
+    font-size: 40px;
+}
+
+#second-heading{
+    font-size: 20px;
+}
